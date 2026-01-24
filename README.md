@@ -3,17 +3,20 @@
 #Create a banking database analyzing loan applications, approvals, and risk factors.
 
 ##Application Domain
+
 The application domain for this project is banking and financial services, with a focus on loan application processing and credit risk assessment. 
 The database models how banks gather application data, assess financial risk factors, and decide whether to approve or refuse loans based on predetermined business criteria.
 
 
 ##Intended Users
+
 -Bank Administrators
 -Loan Officers
 -Risk Analyst
 
 
 ##High-Level Goals
+
 -Maintain and store applicant financial information and loan applications in a relational database. 
 -Examine loan approvals and rejections according to applicant risk factors.
 -Utilize stored procedures to determine applicant risk scores.  
@@ -21,5 +24,6 @@ The database models how banks gather application data, assess financial risk fa
 
 
 ##Data Source
+
 The selected dataset is a Loan Prediction Problem Dataset, which This includes information about past loan applications, 
 including applicant and co-applicant income, loan amount, credit history, employment and marital status, property area, and loan approval decisions.
